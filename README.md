@@ -1,6 +1,6 @@
  提示词优化器技能 PromptOptimizer
 
-[冰山AI资料库更多好用的](https://www.icebai.com/)。
+[冰山AI资料库更多好用的技能和提示词 www.icebai.com ](https://www.icebai.com/)
 
 \---
 
